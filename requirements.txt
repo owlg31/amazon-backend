@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+pydantic-settings
+SQLAlchemy[asyncio]
+asyncpg
+alembic
+pwdlib[argon2]
+PyJWT
+redis
+pymongo
